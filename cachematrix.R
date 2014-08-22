@@ -1,4 +1,4 @@
-## Inverse of matrix using Cached memory
+## Inverse of matrix using Cached memory stored
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
